@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn install` 
-### `yarn start`
+# `yarn install` 
+# `yarn start`
 
 If `yarn install` do not work,  please run `yarn install --ignore-engines`
 
